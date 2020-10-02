@@ -1,6 +1,8 @@
 # Insight
 Site Web/Website - Récompensé 3ème au TechDay EFREI Paris 2019 / 3th Prize at TechDay EFREI Paris 2019
 
+Accessible à ce lien: https://insight360.fr
+
 Relayé directement par l'EFREI Paris et disponible sur leur page/ Available on the website of the EFREI Paris:
 https://www.efrei.fr/campus-ecole-ingenieur/
 
